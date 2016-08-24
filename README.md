@@ -1,4 +1,4 @@
-# Jordan Shepherd
+# Author: Jordan Shepherd
 
 ##Grace Hopper
 * She is a Rear Admiral.
